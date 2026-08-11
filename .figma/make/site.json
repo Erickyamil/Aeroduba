@@ -1,0 +1,10 @@
+{
+  "description": "This modern and intuitive web application showcases industrial cooling tower manufacturing, providing essential information and enhancing user engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
